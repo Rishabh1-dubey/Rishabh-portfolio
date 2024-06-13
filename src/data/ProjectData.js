@@ -72,10 +72,18 @@ export const stackList = [
     name: "Redux",
   },
   {
+    img: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png',
+    name: 'Next.js',
+  },
+  {
+    img: 'https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png',
+    name: 'TypeScript',
+  },
+  {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
     name: "Git",
   },
-  
+
   {
     img: "https://i.ibb.co/PF58TdF/taiwlind.png",
     name: "Tailwind",
