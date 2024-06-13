@@ -27,7 +27,7 @@ export const ProjectList = [
       "Implemented netflix core functionality with a proper user auth system backed by firebase, Integrated Gemini-API to fetch movies via given prompt, a features loaded and heavy on UI project.",
     tech_stack: "Reactjs, Redux-toolkit, TailwindCss",
     github_url: "https://github.com/Rishabh1-dubey/Netflix-GPT-1.0.git",
-    demo_url: "https://your_project_demo_link/",
+    demo_url: "https://netflix-gpt-1-0.vercel.app",
   },
   {
     img: "https://i.ibb.co/xfvMfkL/QuixApp.png",
@@ -35,7 +35,7 @@ export const ProjectList = [
     description: "Created simple Quiz app Using HTML CSS and JavaScript.",
     tech_stack: "html, Css ,JavaScript",
     github_url: "https://github.com/Rishabh1-dubey/Quiz-app.git",
-    demo_url: "https://your_project_demo_link",
+    demo_url: "https://quiz-app-tau-flax.vercel.app",
   },
   {
     img: "https://i.ibb.co/JR1D0pJ/Linkedin.png",
