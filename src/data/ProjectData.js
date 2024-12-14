@@ -3,15 +3,6 @@ import youtube from "../Assets/youtube.png";
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://i.ibb.co/GdbRG8z/Screenshot-562.png",
-    title: "SatiPtick- A Video Streaming App",
-    description:
-      "Developed a scalable and performant video streaming app using React, Tailwind, React Router, and Redux ",
-    tech_stack: "React, React-router, Redux-toolkit, TailwindCss",
-    github_url: "https://github.com/Rishabh1-dubey/Satipitick.git",
-    demo_url: "https://satipitick.vercel.app",
-  },
-  {
     img: "https://i.ibb.co/ssKdSfJ/food-order.png",
     title: "DELIVERIA",
     description: "A Food delivery app",
@@ -19,6 +10,15 @@ export const ProjectList = [
       "React, React-router, Redux-toolkit, Jest, Tailwindcss, React-testing-library",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
+  },
+  {
+    img: "https://i.ibb.co/GdbRG8z/Screenshot-562.png",
+    title: "SatiPtick- A Video Streaming App",
+    description:
+      "Developed a scalable and performant video streaming app using React, Tailwind, React Router, and Redux ",
+    tech_stack: "React, React-router, Redux-toolkit, TailwindCss",
+    github_url: "https://github.com/Rishabh1-dubey/Satipitick.git",
+    demo_url: "https://satipitick.vercel.app",
   },
   {
     img: "https://i.ibb.co/Sx60z8F/Screenshot-564.png",
