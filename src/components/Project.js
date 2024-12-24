@@ -27,7 +27,7 @@ const Project = () => {
                   <h1 className="text-2xl mx-4">
                     Satipitick - a video streaming App
                   </h1>
-                  <p className=" mx-4 pt-4 w-[375px]">
+                  <p className=" mx-4 pt-4 w-[475px]">
                     Developed a scalable and performant video streaming app
                     using React, Tailwind, React Router, and Redux
                   </p>
